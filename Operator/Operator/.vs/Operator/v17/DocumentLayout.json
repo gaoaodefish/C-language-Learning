@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\Operator\\Operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE46C3A-C32C-4C63-8DB4-8F90153FC502}|Operator\\Operator.vcxproj|D:\\Program Project gather\\C Language Project\\gather-C-Language\\Operator\\Operator\\Operator\\Operator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DE46C3A-C32C-4C63-8DB4-8F90153FC502}|Operator\\Operator.vcxproj|solutionrelative:Operator\\Operator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operator.c",
+              "DocumentMoniker": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\Operator\\Operator\\Operator\\Operator.c",
+              "RelativeDocumentMoniker": "Operator\\Operator.c",
+              "ToolTip": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\Operator\\Operator\\Operator\\Operator.c",
+              "RelativeToolTip": "Operator\\Operator.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-11T05:18:26.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
