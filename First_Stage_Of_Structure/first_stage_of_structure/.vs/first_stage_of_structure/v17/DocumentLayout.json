@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\First_Stage_Of_Structure\\first_stage_of_structure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B067994E-5DB7-4FE6-9369-1E0A8CE614CD}|first_stage_of_structure\\first_stage_of_structure.vcxproj|D:\\Program Project gather\\C Language Project\\gather-C-Language\\First_Stage_Of_Structure\\first_stage_of_structure\\first_stage_of_structure\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B067994E-5DB7-4FE6-9369-1E0A8CE614CD}|first_stage_of_structure\\first_stage_of_structure.vcxproj|solutionrelative:first_stage_of_structure\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\First_Stage_Of_Structure\\first_stage_of_structure\\first_stage_of_structure\\test.c",
+              "RelativeDocumentMoniker": "first_stage_of_structure\\test.c",
+              "ToolTip": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\First_Stage_Of_Structure\\first_stage_of_structure\\first_stage_of_structure\\test.c",
+              "RelativeToolTip": "first_stage_of_structure\\test.c",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswEUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-01T11:00:10.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

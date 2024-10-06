@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Program Project gather\C Language Project\gather-C-Language\First_Stage_Of_Structure\first_stage_of_structure\first_stage_of_structure\test.c(78,19): warning C4305: “初始化”: 从“double”到“float”截断
+  first_stage_of_structure.vcxproj -> D:\Program Project gather\C Language Project\gather-C-Language\First_Stage_Of_Structure\first_stage_of_structure\x64\Debug\first_stage_of_structure.exe

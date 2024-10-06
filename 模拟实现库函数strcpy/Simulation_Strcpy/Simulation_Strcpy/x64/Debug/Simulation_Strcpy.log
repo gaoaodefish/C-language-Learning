@@ -1,0 +1,5 @@
+﻿  1.c
+  test.c
+D:\Program Project gather\C Language Project\gather-C-Language\模拟实现库函数strcpy\Simulation_Strcpy\Simulation_Strcpy\test.c(41,8): warning C4090: “初始化”: 不同的“const”限定符
+  正在生成代码...
+  Simulation_Strcpy.vcxproj -> D:\Program Project gather\C Language Project\gather-C-Language\模拟实现库函数strcpy\Simulation_Strcpy\x64\Debug\Simulation_Strcpy.exe
