@@ -1,3 +1,2 @@
 ﻿  test.c
-D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\新建文件夹\test\test\test.c(14,18): warning C4305: “初始化”: 从“int”到“char”截断
-  test.vcxproj -> D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\新建文件夹\test\x64\Debug\test.exe
+  test.vcxproj -> D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\进阶1深度刨析数据在内存中的储存\test\x64\Debug\test.exe
