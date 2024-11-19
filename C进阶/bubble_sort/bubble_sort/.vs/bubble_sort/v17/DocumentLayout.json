@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study and work areas\\Program Project gather\\C Language Project\\gather-C-Language\\C\u8FDB\u9636\\bubble_sort\\bubble_sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9E4C6D-FB7E-4B12-B48E-0764863740B3}|bubble_sort\\bubble_sort.vcxproj|D:\\Study and work areas\\Program Project gather\\C Language Project\\gather-C-Language\\C\u8FDB\u9636\\bubble_sort\\bubble_sort\\bubble_sort\\bubble_sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B9E4C6D-FB7E-4B12-B48E-0764863740B3}|bubble_sort\\bubble_sort.vcxproj|solutionrelative:bubble_sort\\bubble_sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bubble_sort.c",
+              "DocumentMoniker": "D:\\Study and work areas\\Program Project gather\\C Language Project\\gather-C-Language\\C\u8FDB\u9636\\bubble_sort\\bubble_sort\\bubble_sort\\bubble_sort.c",
+              "RelativeDocumentMoniker": "bubble_sort\\bubble_sort.c",
+              "ToolTip": "D:\\Study and work areas\\Program Project gather\\C Language Project\\gather-C-Language\\C\u8FDB\u9636\\bubble_sort\\bubble_sort\\bubble_sort\\bubble_sort.c",
+              "RelativeToolTip": "bubble_sort\\bubble_sort.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-04T03:51:53.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

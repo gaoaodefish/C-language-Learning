@@ -3,7 +3,6 @@
 #include <string.h>
 #include <math.h>
 #include <assert.h>
-
 //int main() 
 //{
 //	int a = -10;
@@ -401,5 +400,154 @@ int add(int x, int y)
 //	struct stu s[3] = { {"zhuangsan", 30},{"lisi", 25},{"wangwu", 20} };
 //
 //	qsort(s, sizeof(s)/sizeof(s[0]), sizeof(s[0]), compare_char);
+//	return 0;
+//}
+ 
+//int main() 
+//{
+//	int i = ~(-4) + 1;
+//	printf("%p", &i);
+//	return 0;
+//}
+
+//int main() {
+//	char* a[] = { "abcd","bcde","c" };
+//	char** p = a;
+//	p++;
+//	printf("%s\n", *p);
+//	return 0;
+//}
+
+//int find(int arr[][3], int r, int c, int k) 
+//{
+//	int x = 0;
+//	int y = c - 1;
+//
+//	while (x < c && y >= 0) 
+//	{
+//		if (arr[x][y] < k)
+//			x++;
+//		else if(arr[x][y] > k) 
+//		{
+//			y--;
+//		}
+//		else 
+//		{
+//			return 1;
+//		}
+//	}
+//	return 0;
+//}
+//
+//int main()
+//{
+//	int arr[3][3] = { 1,2,3,4,5,6,7,8,9 };
+//	int k = 10;
+//	int ret = find(arr, 3, 3, k);
+//	
+//	if (ret) 
+//	{
+//		printf("find");
+//	}
+//	else 
+//	{
+//		printf("Not find");
+//	}
+//	return 0;
+//}
+
+//void reverse(char* left, char* right) 
+//{
+//	assert(left);
+//	assert(right);
+//	while (left < right) 
+//	{
+//		char tmp = *left;
+//		*left = *right;
+//		*right = tmp;
+//		left++;
+//		right--;
+//	}
+//}
+//
+//void string_left_rotate(char* str, int k)
+//{
+//	int n = strlen(str);
+//	reverse(str, str + k - 1);
+//	reverse(str + k, str + n - 1);
+//	reverse(str, str + n - 1);
+//}
+//
+//void left_rotate(char* str, int k) 
+//{
+//	int i = 0;
+//	int len = strlen(str);
+//	for (i = 0; i < k; i++) 
+//	{
+//		char tmp = *str;
+//		int j = 0;
+//		for (j = 0; j < len - 1; j++) 
+//		{
+//			*(str + j) = *(str + j + 1);
+//		}
+//		*(str + len - 1) = tmp;
+//	}
+//}
+//
+//int main() 
+//{
+//	char arr[10] = "ABCDEF";
+//	int k = 2;
+//	/*left_rotate(arr, k);*/
+//	string_left_rotate(arr, k);
+//	printf("%s", arr);
+//	return 0;
+//}
+//
+//int is_string_rotate(char* str1, char* str2) 
+//{
+//	int i = 0;
+//	int len = strlen(str1);
+//	for (i = 0; i < len; i++) 
+//	{
+//		char tmp = *str1;
+//		int j = 0;
+//		for (j = 0; j < len - 1; j++) 
+//		{
+//			*(str1 + j) = *(str1 + j + 1);
+//		}
+//		*(str1 + len - 1) = tmp;
+//
+//		if (strcmp(str1, str2) == 0) 
+//		{
+//			return 1;
+//		}
+//	}
+//	return 0;
+//}
+//
+//int is_string_rotate(char*str1, char*str2) 
+//{
+//	if (strlen(str1) != strlen(str2)) 
+//	{
+//		return 0;
+//	}
+//	strncat(str1, str1, strlen(str1));
+//	return strstr(str1, str2) != NULL;
+//}
+//
+//int main() 
+//{
+//	char arr1[20] = "AABCD";
+//	char arr2[] = "BCDAA";
+//	int ret = is_string_rotate(arr1, arr2);
+//	if (ret) 
+//	{
+//		printf("yes\n");
+//	}
+//	else 
+//	{
+//		printf("no\n");
+//	}
 //	return 0;
 //}
