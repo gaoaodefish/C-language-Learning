@@ -1,2 +1,6 @@
 ﻿  test.c
+D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\内存函数\test\test\test.c(79,3): warning C4047: “return”:“void *”与“int”的间接级别不同
+D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\内存函数\test\test\test.c(83,3): warning C4047: “return”:“void *”与“int”的间接级别不同
+D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\内存函数\test\test\test.c(91,6): warning C4047: “初始化”:“int”与“void *”的间接级别不同
+D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\内存函数\test\test\test.c(85,1): warning C4715: “my_memcmp”: 不是所有的控件路径都返回值
   test.vcxproj -> D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\内存函数\test\x64\Debug\test.exe

@@ -51,12 +51,44 @@
 //	return 0;
 //}
 
-int main() 
-{
-	int num = 5;
-	while (num--) 
-	{
-		printf("%d\n", num);
-	}
-	return 0;
-}
+//int main() 
+//{
+//	int num = 5;
+//	while (num--) 
+//	{
+//		printf("%d\n", num);
+//	}
+//	return 0;
+//}
+#include <assert.h>
+//void* my_memcmp(const void* src, const void* dest, size_t num) 
+//{
+//	assert(src && dest);
+//
+//	while (*((char*)src) == *((char*)dest) && num--)
+//	{
+//		((char*)src)++;
+//		((char*)dest)++;
+//	}
+//	if (*((char*)src) == *((char*)dest)) 
+//	{
+//		return 0;
+//	}
+//	else if (*((char*)src) > *((char*)dest)) 
+//	{
+//		return 1;
+//	}
+//	else if (*((char*)src) < *((char*)dest)) 
+//	{
+//		return -1;
+//	}
+//}
+//
+//int main() 
+//{
+//	int arr1[] = { 1,2,5,4,5,6,7,8,9,10 };
+//	int arr2[] = { 1,2,5,4,5,6,7,8,9,10 };
+//	int result = my_memcmp(arr1, arr2, sizeof(arr1[0])*10);
+//	printf("%d", result);
+//	return 0;
+//}

@@ -1,0 +1,6 @@
+﻿  test.c
+D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\自定义类型\test\test\test.c(46,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\自定义类型\test\test\test.c(46,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  test.vcxproj -> D:\Study and work areas\Program Project gather\C Language Project\gather-C-Language\C进阶\自定义类型\test\x64\Debug\test.exe

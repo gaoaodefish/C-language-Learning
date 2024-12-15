@@ -231,12 +231,24 @@
 //	/*printf("%s\n", strerror(0));
 //	printf("%s\n", strerror(1));
 //	printf("%s\n", strerror(2));
-//	printf("%s\n", strerror(3));*/
+////	printf("%s\n", strerror(3));*/
+////	return 0;
+////}
+//
+//int main() 
+//{
+//	int arr[5] = {0};
 //	return 0;
 //}
 
 int main() 
 {
-	int arr[5] = {0};
+	double source = 1000000;
+	for (int i = 0; i < 12; i++) 
+	{
+		source = source + source * 0.15;
+	}
+
+	printf("%.5f", source / 10000);
 	return 0;
 }
