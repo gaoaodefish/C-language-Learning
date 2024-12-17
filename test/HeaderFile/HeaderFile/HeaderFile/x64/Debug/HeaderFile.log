@@ -1,0 +1,5 @@
+﻿  people_stage.c
+  test.c
+  正在生成代码...
+D:\Study and work areas\Program Project gather\C language-Learning\test\HeaderFile\HeaderFile\HeaderFile\people_stage.c(21,1): warning C4715: “peopleStage”: 不是所有的控件路径都返回值
+  HeaderFile.vcxproj -> D:\Study and work areas\Program Project gather\C language-Learning\test\HeaderFile\HeaderFile\x64\Debug\HeaderFile.exe
