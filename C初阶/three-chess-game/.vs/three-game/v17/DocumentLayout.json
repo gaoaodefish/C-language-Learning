@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\",
+  "WorkspaceRootPath": "D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\three-game\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|solutionrelative:three-game\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\three-game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\three-game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|solutionrelative:three-game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\three-game\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\three-game\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|solutionrelative:three-game\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\three-game\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E216C1DF-9347-4C21-94B8-42D330496A98}|three-game\\three-game.vcxproj|solutionrelative:three-game\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "game.c",
-              "DocumentMoniker": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\three-game\\game.c",
+              "DocumentMoniker": "D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\three-game\\game.c",
               "RelativeDocumentMoniker": "three-game\\game.c",
-              "ToolTip": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\three-game\\game.c",
+              "ToolTip": "D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\three-game\\game.c",
               "RelativeToolTip": "three-game\\game.c",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFAAAAA6AAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-08T12:11:14.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "game.h",
-              "DocumentMoniker": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\three-game\\game.h",
+              "DocumentMoniker": "D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\three-game\\game.h",
               "RelativeDocumentMoniker": "three-game\\game.h",
-              "ToolTip": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\three-game\\game.h",
+              "ToolTip": "D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\three-game\\game.h",
               "RelativeToolTip": "three-game\\game.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvxgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-08T12:10:41.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "text.c",
-              "DocumentMoniker": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\three-game\\text.c",
+              "DocumentMoniker": "D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\three-game\\text.c",
               "RelativeDocumentMoniker": "three-game\\text.c",
-              "ToolTip": "D:\\Program Project gather\\C Language Project\\gather-C-Language\\three-chess-game\\three-game\\text.c",
+              "ToolTip": "D:\\Study and work areas\\Program Project gather\\C language-Learning\\C\u521D\u9636\\three-chess-game\\three-game\\text.c",
               "RelativeToolTip": "three-game\\text.c",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAADEAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-08T11:42:09.823Z",
               "EditorCaption": ""
